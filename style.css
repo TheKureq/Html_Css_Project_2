@@ -82,7 +82,7 @@ h3 {
 	opacity: 0;
 }
 
-/* third card */
+
 .card:hover .three {
 	animation: up 0.4s;
 }
